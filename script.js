@@ -12,12 +12,12 @@ var datosPaciente = {
 
 }
 var datosPrescriptor = {
-    nombre: "Daniel Arturo San Martín Martínez",
+    nombre: "Guillermo Javier Herrera Muñoz",
     profesion: "Médico Cirujano",
-    cedula: "20.283.646-1",
-    numero_registro: "861577",
-    mail:"dasanmartinm@gmail.com - +569 6831 2852",
-    direccion: "Comandante Las Heras 2180, San Bernardo, Región Metropolitana"
+    cedula: "20.059.335-9",
+    numero_registro: "863741",
+    mail:"guillermojherreram@gmail.com - +569 6590 8495",
+    direccion: "Vargas Fontecilla 4060, Quinta Normal, Región Metropolitana"
 }
 const solicitud = [];
 
